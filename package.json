@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/aishwaryaalluri78-cyber/Brainerhub-website#readme",
   "description": "",
+  "engines": {
+    "node": ">=18.17.0",
+    "npm": ">=9.0.0"
+  },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.18",
     "@types/node": "^25.0.3",
