@@ -16,6 +16,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://www.brainerhub.com'),
   title: {
     default: 'BrainerHub Solutions - Software Development Company in India',
     template: '%s | BrainerHub Solutions'
